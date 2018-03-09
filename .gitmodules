@@ -1,0 +1,4 @@
+[submodule "lekaizen210/addons_comafrique"]
+	path = lekaizen210/addons_comafrique
+	url = git@github.com:lekaizen210/addons_comafrique.git
+	branch = master
